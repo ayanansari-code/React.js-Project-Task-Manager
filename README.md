@@ -1,6 +1,6 @@
-🔹 Project Name: Simple Task Manager
-
-🔹 Tech Stack: React.js, LocalStorage, Tailwind CSS (for UI)
+# Task Manager Web App  
+🚀 **Project in Progress**  
+- Tech Stack: React.js, Tailwind CSS  
 
 🔹 Features:
 Add, Edit, and Delete Tasks
